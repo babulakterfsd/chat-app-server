@@ -13,9 +13,9 @@
       "id": 2
     },
     {
-      "email": "babulakterfsd@gmail.com",
-      "password": "$2a$10$IuQfzFzdue6lBssB4TJ1b.uV1z9A7CLXU7OpKvwvVffmW/.Ytpr2O",
-      "name": "Babul Akter",
+      "email": "saad@learnwithsumit.com",
+      "password": "$2a$10$CGHUXkWBm9bOTcUZXOHIxOrI3pj/lFJjV1NCr0.YEkL2aB2Dew8u6",
+      "name": "Saad Hasan",
       "id": 3
     }
   ],
@@ -40,7 +40,7 @@
     },
     {
       "id": 2,
-      "participants": "sumit@learnwithsumit.com-babulakterfsd@gmail.com",
+      "participants": "sumit@learnwithsumit.com-saad@learnwithsumit.com",
       "users": [
         {
           "email": "sumit@learnwithsumit.com",
@@ -48,8 +48,8 @@
           "id": 1
         },
         {
-          "email": "babulakterfsd@gmail.com",
-          "name": "Babul Akter",
+          "email": "akash@learnwithsumit.com",
+          "name": "Saad Hasan",
           "id": 3
         }
       ],
