@@ -27,64 +27,24 @@
   ],
   "conversations": [
     {
-      "participants": "monir@babulakter.com-babul@babulakter.com",
+      "participants": "babul@babulakter.com-monir@babulakter.com",
       "users": [
+        {
+          "email": "babul@babulakter.com",
+          "password": "$2a$10$ArtwjV4rXH9AxBDvKJetbuNtvR6iWKGXOBRpsBx66diaWOUzvCe.y",
+          "name": "Babul Akter",
+          "id": 1
+        },
         {
           "email": "monir@babulakter.com",
           "password": "$2a$10$beZT2DE3gjp2KVn5s/UwdOCuuA/NNlluxfbMOrQrZrRugjnLYXAGi",
           "name": "Monir Hossain",
           "id": 2
-        },
-        {
-          "email": "babul@babulakter.com",
-          "password": "$2a$10$ArtwjV4rXH9AxBDvKJetbuNtvR6iWKGXOBRpsBx66diaWOUzvCe.y",
-          "name": "Babul Akter",
-          "id": 1
         }
       ],
-      "message": "ok",
-      "timestamp": 1674112613816,
+      "message": "hmm.. ki ?",
+      "timestamp": 1674120649649,
       "id": 1
-    },
-    {
-      "participants": "babul@babulakter.com-limon@babulakter.com",
-      "users": [
-        {
-          "email": "babul@babulakter.com",
-          "password": "$2a$10$ArtwjV4rXH9AxBDvKJetbuNtvR6iWKGXOBRpsBx66diaWOUzvCe.y",
-          "name": "Babul Akter",
-          "id": 1
-        },
-        {
-          "email": "limon@babulakter.com",
-          "password": "$2a$10$1PzSVxFpABa0UPW3iXGJBOx.I/tCfgrWaB7nnFPQ0GvXgzDTA.rM6",
-          "name": "Limon Hossain",
-          "id": 4
-        }
-      ],
-      "message": "test message...",
-      "timestamp": 1674112599168,
-      "id": 2
-    },
-    {
-      "participants": "babul@babulakter.com-insan@babulakter.com",
-      "users": [
-        {
-          "email": "babul@babulakter.com",
-          "password": "$2a$10$ArtwjV4rXH9AxBDvKJetbuNtvR6iWKGXOBRpsBx66diaWOUzvCe.y",
-          "name": "Babul Akter",
-          "id": 1
-        },
-        {
-          "email": "insan@babulakter.com",
-          "password": "$2a$10$ENOCyKuRik/AAlRZspiAyurzr5Mldn4eN.yWfe/EWyu3TQAIk6EAq",
-          "name": "Insan Ali",
-          "id": 3
-        }
-      ],
-      "message": "kone re ?",
-      "timestamp": 1674112629848,
-      "id": 3
     }
   ],
   "messages": [
@@ -103,7 +63,7 @@
         "id": 2
       },
       "message": "hello monir",
-      "timestamp": 1674112438176,
+      "timestamp": 1674120622930,
       "id": 1
     },
     {
@@ -120,8 +80,8 @@
         "name": "Monir Hossain",
         "id": 2
       },
-      "message": "koi ?",
-      "timestamp": 1674112450312,
+      "message": "achu?",
+      "timestamp": 1674120631209,
       "id": 2
     },
     {
@@ -138,81 +98,9 @@
         "name": "Babul Akter",
         "id": 1
       },
-      "message": "ashi.. baritei",
-      "timestamp": 1674112475960,
+      "message": "hmm.. ki ?",
+      "timestamp": 1674120649649,
       "id": 3
-    },
-    {
-      "conversationId": 2,
-      "sender": {
-        "email": "babul@babulakter.com",
-        "password": "$2a$10$ArtwjV4rXH9AxBDvKJetbuNtvR6iWKGXOBRpsBx66diaWOUzvCe.y",
-        "name": "Babul Akter",
-        "id": 1
-      },
-      "receiver": {
-        "email": "limon@babulakter.com",
-        "password": "$2a$10$1PzSVxFpABa0UPW3iXGJBOx.I/tCfgrWaB7nnFPQ0GvXgzDTA.rM6",
-        "name": "Limon Hossain",
-        "id": 4
-      },
-      "message": "hello limon",
-      "timestamp": 1674112501784,
-      "id": 4
-    },
-    {
-      "conversationId": 2,
-      "sender": {
-        "email": "babul@babulakter.com",
-        "password": "$2a$10$ArtwjV4rXH9AxBDvKJetbuNtvR6iWKGXOBRpsBx66diaWOUzvCe.y",
-        "name": "Babul Akter",
-        "id": 1
-      },
-      "receiver": {
-        "email": "limon@babulakter.com",
-        "password": "$2a$10$1PzSVxFpABa0UPW3iXGJBOx.I/tCfgrWaB7nnFPQ0GvXgzDTA.rM6",
-        "name": "Limon Hossain",
-        "id": 4
-      },
-      "message": "test message...",
-      "timestamp": 1674112599168,
-      "id": 5
-    },
-    {
-      "conversationId": 1,
-      "sender": {
-        "email": "babul@babulakter.com",
-        "password": "$2a$10$ArtwjV4rXH9AxBDvKJetbuNtvR6iWKGXOBRpsBx66diaWOUzvCe.y",
-        "name": "Babul Akter",
-        "id": 1
-      },
-      "receiver": {
-        "email": "monir@babulakter.com",
-        "password": "$2a$10$beZT2DE3gjp2KVn5s/UwdOCuuA/NNlluxfbMOrQrZrRugjnLYXAGi",
-        "name": "Monir Hossain",
-        "id": 2
-      },
-      "message": "ok",
-      "timestamp": 1674112613816,
-      "id": 6
-    },
-    {
-      "conversationId": 3,
-      "sender": {
-        "email": "babul@babulakter.com",
-        "password": "$2a$10$ArtwjV4rXH9AxBDvKJetbuNtvR6iWKGXOBRpsBx66diaWOUzvCe.y",
-        "name": "Babul Akter",
-        "id": 1
-      },
-      "receiver": {
-        "email": "insan@babulakter.com",
-        "password": "$2a$10$ENOCyKuRik/AAlRZspiAyurzr5Mldn4eN.yWfe/EWyu3TQAIk6EAq",
-        "name": "Insan Ali",
-        "id": 3
-      },
-      "message": "kone re ?",
-      "timestamp": 1674112629848,
-      "id": 7
     }
   ]
 }
