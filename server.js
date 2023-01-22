@@ -35,14 +35,14 @@ router.render = (req, res) => {
     });
   }
 
-//   if (path.includes("/messages") && method === "GET") {
-//     let checkUser =
-//       req.headers["user-email"] === res.locals.data[0].sender.email ||
-//       req.headers["user-email"] === res.locals.data[0].receiver.email;
-//     if (!checkUser) {
-//       res.locals.data = [];
-//     }
-//   }
+  if (path.includes("/messages") && method === "GET") {
+    let checkUser =
+      req.headers["user-email"] === res.locals.data[0].sender.email ||
+      req.headers["user-email"] === res.locals.data[0].receiver.email;
+    if (!checkUser) {
+      res.locals.data = [];
+    }
+  }
 
   res.json(res.locals.data);
 };
