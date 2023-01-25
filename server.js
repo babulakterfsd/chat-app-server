@@ -48,7 +48,8 @@ router.render = (req, res) => {
 };
 
 const middlewares = jsonServer.defaults();
-const port =  9000;
+// const port =  9000;
+const port = process.env.PORT || 9000;
 
 // Bind the router db to the app
 app.db = router.db;

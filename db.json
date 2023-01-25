@@ -1,34 +1,11 @@
 {
   "users": [
-    {
-      "email": "babul@babulakter.com",
-      "password": "$2a$10$ArtwjV4rXH9AxBDvKJetbuNtvR6iWKGXOBRpsBx66diaWOUzvCe.y",
-      "name": "Babul Akter",
-      "id": 1
-    },
-    {
-      "email": "monir@babulakter.com",
-      "password": "$2a$10$beZT2DE3gjp2KVn5s/UwdOCuuA/NNlluxfbMOrQrZrRugjnLYXAGi",
-      "name": "Monir Hossain",
-      "id": 2
-    },
-    {
-      "email": "insan@babulakter.com",
-      "password": "$2a$10$ENOCyKuRik/AAlRZspiAyurzr5Mldn4eN.yWfe/EWyu3TQAIk6EAq",
-      "name": "Insan Ali",
-      "id": 3
-    },
-    {
-      "email": "limon@babulakter.com",
-      "password": "$2a$10$1PzSVxFpABa0UPW3iXGJBOx.I/tCfgrWaB7nnFPQ0GvXgzDTA.rM6",
-      "name": "Limon Hossain",
-      "id": 4
-    }
+    
   ],
   "conversations": [
    
   ],
   "messages": [
-    
+   
   ]
 }
